@@ -11,9 +11,8 @@ website:
 
 format:
   html:
-    css: styles/style.css
-    js: styles/admin-script.js
-    template: _templates/default.html
+    css: style.css
+    
     toc: true
 
 
