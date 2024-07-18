@@ -11,8 +11,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    css: styles/style.css
+    js: styles/admin-script.js
+    template: _templates/default.html
     toc: true
 
 
