@@ -1,16 +1,23 @@
 project:
   type: website
+  
 
 website:
   title: "youtubequarto2"
+ 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - href: index.qmd
+        text: Home1
+      - yoga.qmd 
 
 format:
   html:
+    theme: standstone
     css: styles.css    
     toc: true
 

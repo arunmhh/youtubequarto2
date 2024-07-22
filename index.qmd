@@ -1,5 +1,17 @@
 ---
 title: "youtubequarto2"
+image: raki_yoga.png
+about: 
+    template: trestles
+    image-width: 10em
+    image-shape: round
+    links: 
+      - text: Email
+        icon: envelope
+        href: arunicgeb@gmail.com
+      - text: youtube
+        icon: youtube
+        href: https://www.youtube.com/@codingwithbiologist161 
 ---
 
 This is a Quarto website.<br>
